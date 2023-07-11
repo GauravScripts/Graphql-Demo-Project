@@ -1,0 +1,6 @@
+.gitignore -crlf
+mvnw -crlf
+mvnw.cmd -crlf
+pom.xml -crlf
+src/main/java/com/graphql/learn/graphqldemo/GraphQlDemoApplication.java -crlf
+ src/main/resources/application.properties -crlf
